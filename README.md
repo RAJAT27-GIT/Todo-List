@@ -51,7 +51,7 @@ todo-list
 
 Clone the repository
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/your-username/Todo-List.git
 
 
 Go to project directory

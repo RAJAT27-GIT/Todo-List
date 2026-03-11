@@ -24,11 +24,17 @@ The application also includes a modern neon styled interface with animated backg
 🛠️ Technologies Used
 
 React.js
+
 Node.js
+
 Express.js
+
 mongoDB
+
 JavaScript
+
 CSS3
+
 HTML5
 
 ⚙️ Installation & Setup
